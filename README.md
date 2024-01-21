@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jiwonyziyo/jiwonyziyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Jiwon KANG, a student passionate about data science.
 
 ## About Me
