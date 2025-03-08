@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jiwon KANG, a student passionate about data science.
+I'm Jiwon KANG. 
 
 ## About Me
 - 🔭 I’m currently in Master 2 of VAR.
